@@ -17,8 +17,16 @@ In this project a MobileNetv2 is trained for ASL alphabet recognition on the ASL
 `image_inference.py`: Performs inference of a saved model on images in a specified directory.
 
 # Video Demo
+Example of live ASL alphabet recognition
 https://github.com/user-attachments/assets/b366f8eb-1663-4bf7-a6f0-2a374fb207fc
+
+Example of image capturing:
+https://github.com/user-attachments/assets/7cb4b4d5-0a1a-4abc-b101-32f3ac1dd9cb
 
 ## References
 [^1]: Nagaraj, Akash. (2018). *ASL Alphabet* [Data set]. Kaggle. https://www.kaggle.com/dsv/29550  
 DOI: [10.34740/KAGGLE/DSV/29550](https://doi.org/10.34740/KAGGLE/DSV/29550)
+
+
+
+
