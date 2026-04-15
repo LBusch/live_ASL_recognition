@@ -1,5 +1,5 @@
 # Lightweight Real-Time ASL Alphabet Recognition
-PyTorch project for real-time recognition of the ASL (American Sign Language) alphabet using Machine Learning. MobileNetv2. ASL alphabet signs can be recognized in real time using a webcam.
+PyTorch project for recognition of the ASL (American Sign Language) alphabet using MobileNetv2. ASL alphabet signs can be recognized in real time using live image data from a webcam.
 
 With this project a MobileNetv2 can be trained for ASL alphabet recognition on the ASL Alphabet dataset [^1] from kaggle. The dataset consists of 87,000 images of ASL hand signs. It contains 29 classes, of which 26 are for the letters A-Z and 3 classes for SPACE, DELETE and NOTHING. The dataset does not come with a test set to encourage the use of real-world test images. This project includes a script for self-recording ASL data from a webcam for fine-tuning and testing. The project also includes a script for using a trained model for real-time ASL alphabet recognition on live image data from a webcam. 
 
